@@ -33,6 +33,12 @@ _Para llevar adelante este proyecto utilicé:_
 
 * **Arlys Passos** - *Desarrollo completo* 
 
+## ¿Cómo comprar? 📄
+
+<p> <img src="https://github.com/Arlysp/Ecommerce_ReactJS/blob/master/public/Demo%20Gif.gif?raw=true" display="flex" width="500px" height="320" align="center" />
+
+Aqui un video Con el recorrido de la tienda y como hacer una compra en ella.
+
 ## Licencia 📄
 
 Este proyecto está bajo Licencia - mira el archivo [LICENSE.md](LICENSE.md) para detalles
